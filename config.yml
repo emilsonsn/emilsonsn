@@ -6,9 +6,10 @@ profile:
   company: "Idez Digital"
   location: "Paraíba, Brasil"
   bio: |
-    Desenvolvedor backend focado em PHP e Laravel.
-    Construindo APIs escaláveis, integrações robustas e soluções orientadas a performance.
-  philosophy: '"Código limpo constrói sistemas que escalam."'
+    Backend developer focused on PHP and Laravel.
+    Building scalable APIs, robust integrations, and performance-driven solutions.
+
+  philosophy: '"Less complexity, more results."'
 
 social:
   email: "emilsonsn2@gmail.com"
@@ -16,33 +17,51 @@ social:
   website: "https://emilsonsouza.com.br"
 
 galaxy_arms:
-  - name: "Backend"
+  - name: "Backend Engineering"
     color: "synapse_cyan"
     items:
       - "PHP"
       - "Laravel"
-      - ".NET"
       - "C#"
-      - "Python"
-      - "Angular"
-      - "MySQL"
-  - name: "DevOps"
-    color: "axon_amber"
-    items:
-      - "Docker"
-      - "GitHub Actions"
-      - "Ubuntu"
-  - name: "Frontend"
+      - ".NET"
+      - "ASP.NET Core"
+      - "Entity Framework"
+      - "REST APIs"
+      - "Microservices"
+      - "Queues"
+
+  - name: "Frontend & Experience"
     color: "dendrite_violet"
     items:
-      - "Blade"
+      - "Angular"
+      - "TypeScript"
       - "JavaScript"
+      - "Livewire"
+      - "Blade"
       - "TailwindCSS"
+      - "Bootstrap"
+
+  - name: "Data & Infrastructure"
+    color: "axon_amber"
+    items:
+      - "MySQL"
+      - "PostgreSQL"
+      - "Redis"
+      - "SQL Server"
+      - "Docker"
+      - "AWS"
+      - "Linux"
+      - "GitHub Actions"
+      - "CI/CD"
 
 projects:
-  - repo: "emilsonsn/galaxy-profile"
+  - repo: "emilsonsn/my-blog"
+    arm: 2
+    description: "Personal blog and portfolio creation project"
+
+  - repo: "emilsonsn/safecapital-api"
     arm: 0
-    description: "Gerador de perfil visual em formato de galáxia para o GitHub."
+    description: "API for credit analysis and real estate insurance management"
 
 theme:
   void: "#080c14"
