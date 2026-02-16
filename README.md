@@ -1,3 +1,5 @@
+I am a backend developer focused on building scalable APIs, robust integrations, and performance-driven systems. I have solid experience with PHP, Laravel, and the .NET ecosystem, working on solutions that solve real business problems with simplicity and efficiency. My goal is to develop reliable software that is easy to evolve and prepared for continuous growth.
+
 <div align="center">
   <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
 </div>
@@ -19,12 +21,3 @@
 <div align="center">
   <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
 </div>
-├── github_api.py        # GitHub GraphQL + REST client
-├── svg_builder.py       # Orchestrator connecting config, stats, and templates
-├── utils.py             # Colors, math helpers, SVG utilities
-└── templates/
-    ├── galaxy_header.py           # Spiral galaxy banner (850x280)
-    ├── stats_card.py              # Metrics card (850x180)
-    ├── tech_stack.py              # Language bars + radar chart (850xN)
-    └── projects_constellation.py  # Project cards (850x220)
-```
