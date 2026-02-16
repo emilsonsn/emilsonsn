@@ -1,0 +1,72 @@
+username: emilsonsn
+
+profile:
+  name: "Emilson Souza"
+  tagline: "Backend Developer & Laravel Specialist"
+  company: "Idez Digital"
+  location: "Paraíba, Brasil"
+  bio: |
+    Desenvolvedor backend focado em PHP e Laravel.
+    Construindo APIs escaláveis, integrações robustas e soluções orientadas a performance.
+  philosophy: '"Código limpo constrói sistemas que escalam."'
+
+social:
+  email: "emilsonsn2@gmail.com"
+  linkedin: "emilsonsn"
+  website: "https://emilsonsouza.com.br"
+
+galaxy_arms:
+  - name: "Backend"
+    color: "synapse_cyan"
+    items:
+      - "PHP"
+      - "Laravel"
+      - ".NET"
+      - "C#"
+      - "Python"
+      - "Angular"
+      - "MySQL"
+  - name: "DevOps"
+    color: "axon_amber"
+    items:
+      - "Docker"
+      - "GitHub Actions"
+      - "Ubuntu"
+  - name: "Frontend"
+    color: "dendrite_violet"
+    items:
+      - "Blade"
+      - "JavaScript"
+      - "TailwindCSS"
+
+projects:
+  - repo: "emilsonsn/galaxy-profile"
+    arm: 0
+    description: "Gerador de perfil visual em formato de galáxia para o GitHub."
+
+theme:
+  void: "#080c14"
+  nebula: "#0f1623"
+  star_dust: "#1a2332"
+  synapse_cyan: "#00d4ff"
+  dendrite_violet: "#a78bfa"
+  axon_amber: "#ffb020"
+  text_bright: "#f1f5f9"
+  text_dim: "#94a3b8"
+  text_faint: "#64748b"
+
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+    - "Shell"
+    - "Makefile"
+  max_display: 8
