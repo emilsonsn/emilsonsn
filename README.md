@@ -12,7 +12,9 @@
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
- <h1 align="center">Hi! 👋 Welcome to my GitHub!</h1>
+   <h1 align="center">Hi! 👋 Welcome to my GitHub!</h1>
+
+  <a target="_blank" href="https://emilsonsouza.com.br">emilsonsouza.com.br</a> <br>
 
  <p>
    I am a backend developer focused on building scalable APIs, robust integrations, and performance-driven systems. I have solid experience with PHP, Laravel, and the .NET ecosystem, working on solutions that solve real business problems with simplicity and efficiency. My goal is to develop reliable software that is easy to evolve and prepared for continuous growth.
@@ -79,7 +81,6 @@
 
 <br>
 <div> 
-  <a href = "emilsonsouza.com.br">Personal website</a> <br>
   <a href = "mailto:emilsonsn2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/emilsonsn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <br><hr>
