@@ -45,7 +45,6 @@
 
 <h3 align="center"</h3>My Github Stats
 <div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emilsonsn&theme=tokyonight&utcOffset=5.30" height="180em" alt="Time Graph"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emilsonsn&theme=tokyonight" height="180em" alt="Commitments"/>
 </div>
 
