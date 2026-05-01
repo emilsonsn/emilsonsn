@@ -1,20 +1,6 @@
-<div align="center">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">   
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">  
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">  
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+<h1 align="center">Hi! 👋 Welcome to my GitHub!</h1>
 
-   <h1 align="center">Hi! 👋 Welcome to my GitHub!</h1>
-
-  <a target="_blank" href="https://emilsonsouza.com.br/en">emilsonsouza.com.br</a> <br>
+<a target="_blank" href="https://emilsonsouza.com.br/en">emilsonsouza.com.br</a> <br>
 
  <p>
    I am a backend developer focused on building scalable APIs, robust integrations, and performance-driven systems. I have solid experience with PHP, Laravel, and the .NET ecosystem, working on solutions that solve real business problems with simplicity and efficiency. My goal is to develop reliable software that is easy to evolve and prepared for continuous growth.
