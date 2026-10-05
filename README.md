@@ -1,70 +1,68 @@
-<h1 align="center">Hi! 👋 Welcome to my GitHub!</h1>
+<h1 align="center">Olá! 👋 Bem-vindo ao meu GitHub!</h1>
 
- <p>
-   I am a backend developer focused on building scalable APIs, robust integrations, and performance-driven systems. I have solid experience with PHP, Laravel, and the .NET ecosystem, working on solutions that solve real business problems with simplicity and efficiency. My goal is to develop reliable software that is easy to evolve and prepared for continuous growth.
- </p>
+<p>
+  Sou desenvolvedor backend focado na construção de APIs escaláveis, integrações robustas e sistemas orientados a desempenho. Tenho sólida experiência com PHP, Laravel, Python e o ecossistema .NET, trabalhando em soluções que resolvem problemas reais de negócio com simplicidade e eficiência. Meu objetivo é desenvolver softwares confiáveis, fáceis de evoluir e preparados para um crescimento contínuo.
+</p>
 
- <hr>
+<hr>
  
 <div align="center">
-  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
+  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Cabeçalho Galaxy"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
-</div>
-<br/>
-
-<div align="center">
-  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
+  <img src="./assets/generated/stats-card.svg" width="850" alt="Estatísticas"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
+  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tecnologias"/>
 </div>
 
-<h3 align="center"</h3>My Github Stats
-<div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emilsonsn&theme=tokyonight" height="180em" alt="Commitments"/>
-</div>
+<br/>
 
-<h2>⚡ About me:</h2>
+<h2>⚡ Sobre mim:</h2>
 <ul>
-  <li><strong>Full Stack Developer.</li>
-  <li>Passionate about technology and innovation, I am always learning and challenging myself.</li>
+  <li><strong>Desenvolvedor Full Stack.</strong></li>
+  <li>Apaixonado por tecnologia e inovação, estou sempre buscando aprender coisas novas e enfrentar novos desafios.</li>
 </ul>
 
-<h2>🛠️ Technologies and Tools I use:</h2>
+<h2>🛠️ Tecnologias e ferramentas que utilizo:</h2>
 <ul>
   <li>PHP, Laravel, .NET, C#, Python, Node.js</li>
-  <li>Angular, Typescript, Livewire, Jquery, JavaScript, Tailwind, Bootstrap, HTML, CSS,</li>
-  <li>PostgreeSQL, MySQL, MongoDB, Redis, SQLite</li>
-  <li>AWS, S3, GIT, Docker, Nginx, Apache2</li>  
+  <li>Angular, TypeScript, Livewire, jQuery, JavaScript, Tailwind, Bootstrap, HTML, CSS</li>
+  <li>PostgreSQL, MySQL, MongoDB, Redis, SQLite</li>
+  <li>AWS, S3, Git, Docker, Nginx, Apache2</li>  
 </ul>
 
-<h2>🚀 Some projects I have worked on:</h2>
+<h2>🚀 Alguns projetos em que trabalhei:</h2>
 <ul>
-  <li><a href="https://fligpix.com.br/"><strong>Fligpix</strong></a>: Financial management system integrated with multiple gateways, allowing customization of more specific transactions.</li>
- <li><a href="https://xsa-manager.officecom.app"><strong>XSA Manager</strong></a>: Betting house management tool. It allows creation, blocking, and payment management of subscribers.</li>
-  <li><a href="https://solarmaker.com.br"><strong>Solarmaker</strong></a>: Solar systems management platform integrated with embedded inverter systems.</li>
-  <li><a href="https://app.localizadordeeditais.com.br"><strong>Bid Finder</strong></a>: Search and cataloging tool for government bids integrated with 3 federal government APIs.</li>
-  <li><a href="http://app.andradeengenhariaeletrica.com.br/"><strong>Andrade Engenharia</strong></a>: CRM for an engineering company integrated with Granatum.</li>
- 
+  <li><a href="https://fligpix.com.br/"><strong>Fligpix</strong></a>: Sistema de gestão financeira integrado a múltiplos gateways, permitindo a personalização de transações específicas.</li>
+
+  <li><a href="https://xsa-manager.officecom.app"><strong>XSA Manager</strong></a>: Ferramenta de gerenciamento para casas de apostas. Permite criação, bloqueio e gerenciamento de pagamentos de assinantes.</li>
+
+  <li><a href="https://solarmaker.com.br"><strong>Solarmaker</strong></a>: Plataforma de gerenciamento de sistemas solares integrada a sistemas embarcados de inversores.</li>
+
+  <li><a href="https://app.localizadordeeditais.com.br"><strong>Localizador de Editais</strong></a>: Ferramenta de busca e catalogação de editais governamentais integrada a três APIs do Governo Federal.</li>
+
+  <li><a href="http://app.andradeengenhariaeletrica.com.br/"><strong>Andrade Engenharia</strong></a>: CRM desenvolvido para uma empresa de engenharia, integrado à plataforma Granatum.</li>
 </ul>
 
-<h2>🌱 What I am learning:</h2>
-<p>Currently, I am improving my .NET skills with a focus on microservices</p>
+<h2>🌱 O que estou aprendendo:</h2>
+<p>Atualmente, estou aprimorando meus conhecimentos em .NET, com foco em arquitetura de microsserviços.</p>
 
-<h2>💬 Let's talk?</h2>
-<p>If you want to collaborate on a project or just exchange ideas, feel free to get in touch! I love discussing new ideas and solving programming challenges.</p>
+<h2>💬 Vamos conversar?</h2>
+<p>Se você deseja colaborar em algum projeto ou simplesmente trocar ideias, fique à vontade para entrar em contato! Gosto de discutir novas ideias, tecnologias e resolver desafios de programação.</p>
 
 <br>
+
 <div> 
-  <a href = "mailto:emilsonsn2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:emilsonsn2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
   <a href="https://www.linkedin.com/in/emilsonsn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <br><hr>
+
+  <br><hr>
 </div>
